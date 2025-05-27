@@ -3,4 +3,6 @@
  Template:     kadence
  Version:      1.0
 */
-@import url("../kadence/style.css");
+
+/* TEST: make sure child CSS is applied */
+/* TEST */
